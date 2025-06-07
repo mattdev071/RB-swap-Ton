@@ -10,8 +10,8 @@ An open source repository for Rainbow Swap front end interface and smart contrac
 
 ### Contact
 
-- Telegram: [@rainbow_swap](https://t.me/mattdev071)
-- Email: [info.blackbot@gmail.com](mailto:mattdev071@gmail.com)
+- Telegram: [@mattdev071](https://t.me/mattdev071)
+- Email: [mattdev071@gmail.com](mailto:mattdev071@gmail.com)
 
 ### Problem
 
