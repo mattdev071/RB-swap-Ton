@@ -6,14 +6,12 @@ An open source repository for Rainbow Swap front end interface and smart contrac
 
 ### Interfaces
 
-- TMA: [@rainbow_swap_bot](https://t.me/rainbow_swap_bot)
 - Web: [rainbow.ag](https://rainbow.ag)
 
-### Socials / Contact
+### Contact
 
-- Telegram Channel: [@rainbow_swap](https://t.me/rainbow_swap)
-- Community Chat: [@rainbow_swap_chat](https://t.me/rainbow_swap_chat)
-- Email: [info.blackbot@gmail.com](mailto:info.blackbot@gmail.com)
+- Telegram: [@rainbow_swap](https://t.me/mattdev071)
+- Email: [info.blackbot@gmail.com](mailto:mattdev071@gmail.com)
 
 ### Problem
 
@@ -28,9 +26,6 @@ Rainbow Swap aggregates liquidity from multiple TON DEXes, distributing trade vo
 ![not example.png](docs%2Fassets%2Fnot%20example.png)
 ![usdt example.png](docs%2Fassets%2Fusdt%20example.png)
 
-### Results
-
-Our user-friendly interface allows seamless swaps with the most efficient routes, considering swap distribution and gas costs. Swap now with our bot  [@rainbow_swap_bot](https://t.me/rainbow_swap_bot) and share your thoughts and suggestions in [Community Chat](https://t.me/@rainbow_swap_chat)! 🌈🚀
 
 # Development info
 
@@ -76,6 +71,3 @@ To build `Rainbow routing wallet` smart contract run
 yarn build:contract
 ```
 
-### License
-
-This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
