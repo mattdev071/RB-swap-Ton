@@ -10,7 +10,7 @@ An open source repository for Rainbow Swap front end interface and smart contrac
 
 ### Contact
 
-- Telegram: [@mattdev071](https://t.me/mattdevx)
+- Telegram: [@mattdevx](https://t.me/mattdevx)
 - Email: [mattdev071@gmail.com](mailto:mattdev071@gmail.com)
 
 ### Problem
